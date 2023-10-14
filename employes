@@ -1,0 +1,32 @@
+ [
+    {
+      "id": "e1",
+      "nomEmp": "Lamrabat",
+      "prenomEmp":"Ousama",
+      "poste": "Directeur",
+      "departement": {
+        "codeDep": "1",
+        "nomDep" :"RH"
+      }
+    },
+  {
+      "id": "e2",
+      "nomEmp": "lhaj",
+      "prenomEmp":"hseen",
+      "poste": "mol_shi",
+      "departement": {
+        "codeDep": "2",
+        "nomDep" :"Pibba"
+      }
+    },
+    {
+      "id": "e3",
+      "nomEmp": "lhaj",
+      "prenomEmp":"Mhmed",
+      "poste": "sahb_mol_chi",
+      "departement": {
+        "codeDep": "3",
+        "nomDep" :"RH"
+      }
+    }
+  ]
